@@ -1,1 +1,4 @@
 kubernetes
+awscli
+psycopg2-binary
+ansible
